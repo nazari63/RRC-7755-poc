@@ -23,3 +23,4 @@ There is a second implementation of a fulfiller written in Go that is currently 
 ## License
 
 This project is licensed under the MIT License.
+This project is a demonstration of blockchain technology and smart contract integration.
